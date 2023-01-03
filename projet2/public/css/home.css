@@ -1,0 +1,31 @@
+.head{
+    text-align: center;
+}
+body{
+    margin: 0;
+    background-color: pink;
+    height: 700px;
+}
+.vegetable{
+    height: 480px;
+    width: 500px;
+  background-color:lightblue ;
+  position: absolute;
+  left: 200px;
+  bottom: 80px;
+  text-align: center;
+}
+.fruits{
+    height: 480px;
+    width: 500px;
+  background-color:lightblue ;
+  position: absolute;
+  right: 200px;
+  bottom: 80px;
+  text-align: center;
+}
+img{
+    width: 250px;
+    height: 250px;
+}
+
